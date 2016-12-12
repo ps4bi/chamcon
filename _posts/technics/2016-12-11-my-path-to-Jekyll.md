@@ -3,13 +3,13 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "Jekyll"
 title: "My path to Jekyll"
 teaser: "way to learn"
-categories: technics
-  - 
-tags:jekyll, learn
-  - 
+categories: 
+  - technics
+tags:
+  - jekyll, learn
 ---
 
 1. I could grasp basic ideas of how a website in general and particularly Jekyll based-website work by using the following tutorial:
